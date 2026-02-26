@@ -221,6 +221,9 @@ secrets/
 .env.local
 .env.*.local
 
+# Local launch scripts
+minimax_claude_launch.sh
+
 # Local dev data volumes
 data/minio/
 data/qdrant/
